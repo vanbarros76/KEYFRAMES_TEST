@@ -1,0 +1,9 @@
+"*":
+  core:
+    themes: [
+      "one-dark-ui"
+      "solarized-light-syntax"
+    ]
+    uriHandlerRegistration: "always"
+  "exception-reporting":
+    userId: "05f16a0a-e33b-49ed-ae89-7972329d6202"
